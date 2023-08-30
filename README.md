@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate full stack software developer and competitive programmer difference from Bangladesh</h3>
+<h3 align="center">A passionate full stack software developer and competitive programmer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">online judge account:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/__skb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__skb__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3863do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3863do" height="30" width="40" /></a>
