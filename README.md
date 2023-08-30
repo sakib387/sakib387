@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/__skb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__skb__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3863do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3863do" height="30" width="40" /></a>
-  <a href="https://atcoder.jp/users/JU_387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="JU_387" height="30" width="40" /></a>
+  <a href="https://atcoder.jp/users/JU_387" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="JU_387" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
