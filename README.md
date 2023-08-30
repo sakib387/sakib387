@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1>
-<h3 align="center">A passionate full stack software developer and competitive programmer from Bangladesh</h3>
+<h3 align="center">A passionate full stack web developer and competitive programmer from Bangladesh</h3>
 
 <h3 align="left">online judge account:</h3>
 <p align="left">
