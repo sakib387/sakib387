@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib</h1> 
-<h1 align="center">online judge account:</h1>
+<h1 align="center">Online judge account:</h1>
 <p align="center" >
 <a href="https://codeforces.com/profile/__skb__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__skb__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3863do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3863do" height="30" width="40" /></a>
